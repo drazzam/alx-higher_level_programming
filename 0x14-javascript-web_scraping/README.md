@@ -130,11 +130,3 @@ Nien Nunb
 Bib Fortuna
 0x14-javascript-web_scraping:$ 
 ```
-### Author
-- [Joseph Mahiuha](https://github.com/Mahiuha)
-### Acknowledgments
-- [ALX](https://www.alxafrica.com/)
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
-- [Loripsum API](http://loripsum.net/api)
-- [Star Wars API](https://swapi.co/)
-- [Twitter API](https://developer.twitter.com/en/docs)
